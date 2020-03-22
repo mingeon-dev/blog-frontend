@@ -23,7 +23,7 @@ const QuillWrapper = styled.div`
     padding: 0;
     min-height: 320px;
     font-size: 1.125rem;
-    ling-height: 1.5;
+    line-height: 1.5;
   }
   .ql-editor.ql-blank::before {
     left: 0px;
