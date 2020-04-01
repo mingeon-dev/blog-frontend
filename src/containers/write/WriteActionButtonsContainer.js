@@ -32,7 +32,7 @@ const WriteActionButtonsContainer = ({ history }) => {
   };
 
   const onCancel = () => {
-    history.back();
+    history.goBack();
   };
 
   useEffect(() => {
